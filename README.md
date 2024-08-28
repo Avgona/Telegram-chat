@@ -29,5 +29,5 @@ Key features include:
 
 ![Image of Maint](https://github.com/Avgona/Telegram-chat/blob/master/images/create-chat.png?raw=true)
 
-![Image of Maint](https://github.com/Avgona/Telegram-chat/blob/master/images/search.png?raw=true)
+![Image of Maint](https://github.com/Avgona/Telegram-chat/blob/master/images/search-and-join.png?raw=true)
 
