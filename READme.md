@@ -21,13 +21,13 @@ Key features include:
 * Maven, Docker
 * TS, React, Redux
 
-![Image of Maint](https://github.com/Avgona/Citizen-crud/blob/main/images/join-form.png?raw=true)
+![Image of Maint](https://github.com/Avgona/Telegram-chat/blob/main/images/join-form.png?raw=true)
 
-![Image of Maint](https://github.com/Avgona/Citizen-crud/blob/main/images/telegram-main-1?raw=true)
+![Image of Maint](https://github.com/Avgona/Telegram-chat/blob/main/images/telegram-main-1?raw=true)
 
-![Image of Maint](https://github.com/Avgona/Citizen-crud/blob/main/images/telegram-main-2?raw=true)
+![Image of Maint](https://github.com/Avgona/Telegram-chat/blob/main/images/telegram-main-2?raw=true)
 
-![Image of Maint](https://github.com/Avgona/Citizen-crud/blob/main/images/create-chat?raw=true)
+![Image of Maint](https://github.com/Avgona/Telegram-chat/blob/main/images/create-chat?raw=true)
 
-![Image of Maint](https://github.com/Avgona/Citizen-crud/blob/main/images/search?raw=true)
+![Image of Maint](https://github.com/Avgona/Telegram-chat/blob/main/images/search?raw=true)
 
