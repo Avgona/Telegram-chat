@@ -1,0 +1,21 @@
+#join-button {
+    width: 100%;
+    padding: 0.75rem;
+    background-color: white;
+    color: #007bff;
+    border: none;
+    font-size: 0.85rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#join-button:hover {
+    background-color: gainsboro;
+}
+
+#join-button:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.5);
+}

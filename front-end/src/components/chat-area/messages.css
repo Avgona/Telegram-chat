@@ -1,0 +1,48 @@
+.message-item {
+    background-color: #effdde;
+    border-radius: 8px;
+    padding: 8px 12px;
+    max-width: 80%;
+    display: inline-block;
+}
+
+.message-content {
+    margin-bottom: 2px;
+    font-family: 'San Francisco', sans-serif;
+}
+
+.message-info {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 0.75em;
+    color: #7cb342;
+}
+
+.message-time {
+    margin-right: 4px;
+}
+
+.message-wrapper {
+    margin-bottom: 8px;
+    max-width: 80%;
+}
+
+.current-user {
+    align-self: flex-end;
+}
+
+.other-user {
+    align-self: flex-start;
+}
+
+.message-author {
+    font-size: 0.8em;
+    font-weight: bold;
+    color: dodgerblue;
+    margin-bottom: 2px;
+}
+
+.other-user .message-item {
+    background-color: #ffffff;
+}
