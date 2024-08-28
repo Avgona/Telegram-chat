@@ -23,11 +23,11 @@ Key features include:
 
 ![Image of Maint](https://github.com/Avgona/Telegram-chat/blob/master/images/join-form.png?raw=true)
 
-![Image of Maint](https://github.com/Avgona/Telegram-chat/blob/master/images/telegram-main-1?raw=true)
+![Image of Maint](https://github.com/Avgona/Telegram-chat/blob/master/images/telegram-main-1.png?raw=true)
 
-![Image of Maint](https://github.com/Avgona/Telegram-chat/blob/master/images/telegram-main-2?raw=true)
+![Image of Maint](https://github.com/Avgona/Telegram-chat/blob/master/images/telegram-main-2.png?raw=true)
 
-![Image of Maint](https://github.com/Avgona/Telegram-chat/blob/master/images/create-chat?raw=true)
+![Image of Maint](https://github.com/Avgona/Telegram-chat/blob/master/images/create-chat.png?raw=true)
 
-![Image of Maint](https://github.com/Avgona/Telegram-chat/blob/master/images/search?raw=true)
+![Image of Maint](https://github.com/Avgona/Telegram-chat/blob/master/images/search.png?raw=true)
 
